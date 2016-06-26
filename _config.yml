@@ -1,0 +1,14 @@
+layout_spectrum: 0.6005120105110109
+typography_spectrum: 0.3066531110089272
+color:
+  brandStrength: 0.8956786303315312
+  lightness: 0.11650038789957762
+  saturation: 0.48171461606398225
+  rhythmicContrast: 0.1680042278021574
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Play Think Transform
